@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#1f3a5f"/>
+  <!-- Отвес: точка подвеса, нить, груз -->
+  <rect x="176" y="96" width="160" height="28" rx="14" fill="#ffffff"/>
+  <rect x="246" y="110" width="20" height="170" fill="#ffffff"/>
+  <path d="M256 268 L326 340 L256 430 L186 340 Z" fill="#f2b33d"/>
+</svg>
